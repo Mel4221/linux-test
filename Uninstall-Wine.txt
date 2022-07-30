@@ -1,0 +1,5 @@
+##Remove WineHQ Stable
+sudo apt auto remove --install-recommends winehq-stable --purge
+
+##Remove WineHQ Devel
+sudo apt auto remove --install-recommends winehq-devel --purge

@@ -1,0 +1,9 @@
+oads$ chmod +x [name of the program] 
+# this code is  to make the run files 
+# executeable 
+
+
+#this allows you to change the onwership of a file
+			
+mel@DELL:/opt/lampp$ sudo chown mel  -vR /opt/lampp/htdocs/
+
